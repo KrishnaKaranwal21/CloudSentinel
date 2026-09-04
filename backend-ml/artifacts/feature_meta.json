@@ -1,0 +1,28 @@
+{
+  "feature_columns": [
+    "rain",
+    "temp",
+    "wetb",
+    "dewpt",
+    "vappr",
+    "rhum",
+    "msl",
+    "wdsp",
+    "wddir",
+    "sun",
+    "vis",
+    "clht",
+    "clamt",
+    "month_feb",
+    "month_mar",
+    "month_apr",
+    "month_may",
+    "month_jun",
+    "month_jul",
+    "month_aug",
+    "month_sep",
+    "month_oct",
+    "month_nov",
+    "month_dec"
+  ]
+}
